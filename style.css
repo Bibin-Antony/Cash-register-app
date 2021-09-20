@@ -1,4 +1,9 @@
-table, td{
-    border: black 2px solid;
-    background-color: cornsilk;
+*{
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
 }
