@@ -27,7 +27,7 @@ const CashGiven = Number(cashGiven.value);
             showMessage("The cash provided atlease be equal to the bill amount");
         }
     } else {
-        showMessage("Invalid Bill Amount");
+        showMessage("Invalid cash Given");
     }
 });
 
